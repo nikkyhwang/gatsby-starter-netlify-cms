@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Does Coffee Have a Conscience?
-image: /img/download.jpeg
+image: /img/coffee.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
